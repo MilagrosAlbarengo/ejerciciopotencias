@@ -1,0 +1,2 @@
+# ejerciciopotencias
+Created with CodeSandbox
